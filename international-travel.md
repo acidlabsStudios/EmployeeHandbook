@@ -37,7 +37,7 @@ Here's what you need:
 You need a visa (or a waiver) to authorise travel to the US.
 
 ### Visa Waiver Program
-If your country participates in the Visa Waiver Program (VWP), then you can apply for an ESTA (Electronic System for Travel Authorization) within 3 days of travel. The ESTA is valid for 2 years.
+If your country participates in the Visa Waiver Program (VWP), then you can [apply for an ESTA](https://esta.cbp.dhs.gov/esta/) (Electronic System for Travel Authorization) within 3 days of travel. The ESTA is valid for 2 years.
 
 ### B-1 Business Visitor Visa
 If your country does not participate in the Visa Waiver Program or you are not eligible for an ESTA, you'll need to apply for a B-1 business visitor visa… the long way.
@@ -45,7 +45,7 @@ If your country does not participate in the Visa Waiver Program or you are not e
 We'll work with you through this process. Start early, as soon as we have dates for a meetup or conference. Visa appointments and processing can take weeks to months. Ping Steve as soon as you know that you'll need a visa.
 
 ### Trusted Traveler Programs
-Border screening is slow and stressful every time. "Trusted traveler" programs expedite and bypass some screening. Citizens of some countries are eligible for Global Entry and Canadians are eligible for NEXUS. These programs are completely optional but may make life a little easier, at the cost of onerous biometric scans like fingerprinting (for Global Entry and NEXUS) and iris scanning (for NEXUS).
+Border screening is slow and stressful every time. "Trusted traveler" programs expedite and bypass some screening. Citizens of some countries are eligible for [Global Entry](https://help.cbp.gov/app/answers/detail/a_id/1035/~/global-entry-program---who-can-apply) and Canadians are eligible for [NEXUS](https://www.cbp.gov/travel/trusted-traveler-programs/nexus/nexus-eligibility). These programs are completely optional but may make life a little easier, at the cost of onerous biometric scans like fingerprinting (for Global Entry and NEXUS) and iris scanning (for NEXUS).
 
 An ESTA is still required for travel; these programs just speed up entry.
 
