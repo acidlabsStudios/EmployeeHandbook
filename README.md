@@ -1,7 +1,7 @@
 # acidlabs Studios Employee Handbook
 The first thing you should know is that, in the words of Maui, "you're welcome!", though not in the be thankful sense, rather in the sense that, you are welcome here. 
 
-We've created this handbook so that when a new person joins us, they don't need to figure things out for themselves. Large parts of it are inspired by Basecamp's public employee handbook. Hey, they did the work so companies like ours don't need to start from scratch.
+We've created this handbook so that when a new person joins us, they don't need to figure things out for themselves. Large parts of it are inspired by [Basecamp's public employee handbook](https://github.com/basecamp/handbook). Hey, they did the work so companies like ours don't need to start from scratch.
 
 Joining any new company is an exercise in navigating new ways; acidlabs Studios in particular is possibly more so, given how different some of our practices are. There’s as much to unlearn from your previous corporate existence as there is to learn. Before this handbook, navigating that path was almost entirely oral history.
 
