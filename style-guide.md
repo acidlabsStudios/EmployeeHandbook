@@ -20,13 +20,15 @@ By preference, email is sent plain text or rich text and never HTML (unless it's
 
 Our .sigfile format is:
 
-__-- 
+```
+-- 
 <your name>
 <email>@acidlabs.org | <mobile phone number> | @<twitter handle> | <optional personal URL such as about.me, Medium, blog, etc.>
-
+ 
 acidlabs Studios | Better by design | www.acidlabs.org
-
-<optional additional quote or some such>__
+ 
+<optional additional quote or some such>
+```
 
 We don't do legal disclaimers or those kinds of things. Your optional additional quote can be anything that interests you or that you enjoy - work, personal, etc. - so long as it's professional in tone. It's okay for it to be amusing or a little irreverent; we're not the fun police.
 e.g. _We work flexibly. I'm sending you this email now because it suits me, but there is no expectation you read, respond or action it outside of your regular working hours._
