@@ -20,7 +20,7 @@ __One-month sabbatical every three years__: Every three years, employees are eli
 
 __Paid parental leave__: When you welcome a new baby, acidlabs Studios encourages you to take up to 26 weeks parental leave, at 100% paid salary. All the other rules and eligibility around parental leave apply as they do under the Fair Work Act 2009.
 
-__15% superannuation__: Just that. More than the base. You can obviously nominate your own fund of choice. If you don't have one, we will help you establish one. Our funds of choice are Australian Ethical and Spaceship.
+__15% superannuation__: Just that. More than the base. You can obviously nominate your own fund of choice. If you don't have one, we will help you establish one. Our funds of choice are [Australian Ethical](https://www.australianethical.com.au/) and [Spaceship](https://www.spaceship.com.au/).
 
 ## Perks
 
