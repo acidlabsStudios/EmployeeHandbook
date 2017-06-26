@@ -1,4 +1,4 @@
-#We're all acidlabs Studios
+# We're all acidlabs Studios
 
 Everyone working at acidlabs Studios represents acidlabs Studios. When a client talks to Steve about a design problem, Steve is acidlabs Studios. When a different client reads a tweet by you that talks about accessible forms, you are acidlabs Studios. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.
 
