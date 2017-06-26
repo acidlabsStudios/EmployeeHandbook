@@ -1,4 +1,5 @@
 #We're all acidlabs Studios
+
 Everyone working at acidlabs Studios represents acidlabs Studios. When a client talks to Steve about a design problem, Steve is acidlabs Studios. When a different client reads a tweet by you that talks about accessible forms, you are acidlabs Studios. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.
 
 That’s what we mean when we say marketing is everyone’s responsibility, and that it pays to spend the time to recognize that. This means avoiding the bullshit of management-speak and bending policies to fit needs within reason, not just listening. It means taking the time to get the words right and consider how you’d feel if you were on the other side of the interaction.
