@@ -15,8 +15,8 @@ With that in mind, here are some examples of what we’d consider OK and what we
 ## Not OK
 
 1. _You can’t work full time or part time for another company in our industry._ If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Steve.
-2. Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year._ That’s too disruptive to our own work schedule and to your fellow teammates.
-3. _Consulting for other companies in our industry where there may be a conflict of interest (a competitor, etc)._
+2. _Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year._ That’s too disruptive to our own work schedule and to your fellow teammates.
+3. _Consulting for other companies in our industry where there may be a conflict of interest (a competitor, etc)._ It's bad form to work for a competitor.
 4. _Be aggressive in marketing your availability for side work._ If something comes to you through a friend or some connection, fine, but aggressively promoting something on the side will ultimately result in a conflict of interest here at work.
 5. _Take on anything outside of work that’ll pull attention from work._ For example, if you wanted to launch an app, but the app requires providing timely customer support to people who use the app, that’s going to eat into your day here at work. That would ultimately be a problem.
 
