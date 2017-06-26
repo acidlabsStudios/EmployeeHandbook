@@ -16,10 +16,10 @@ And while this isn’t a formal benefit, we encourage _normal, healthy work week
 
 ## Perks
 
-_Fitness allowance_: acidlabs Studios will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it’s not organised fitness, that’s okay, too. You can use your stipend to pay for race registrations or even new running shoes.  It doesn't accrue, so use it or lose it. Claim it as an expense.
+__Fitness allowance__: acidlabs Studios will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it’s not organised fitness, that’s okay, too. You can use your stipend to pay for race registrations or even new running shoes.  It doesn't accrue, so use it or lose it. Claim it as an expense.
 
-_Massage allowance_: Every month, you can expense up to $100 towards a massage as a part of our employee wellbeing program. Stay loose. Like fitness allowance, it doesn't accrue.
+__Massage allowance__: Every month, you can expense up to $100 towards a massage as a part of our employee wellbeing program. Stay loose. Like fitness allowance, it doesn't accrue.
 
-_Community Supported Agriculture (CSA) allowance_: Fresh, organic, local fruits and vegetables are great to have on-hand so we'll pay for a local CSA membership for you. It's up to you to find a supplier, and then expense the cost up to $1000/year. If there's no CSA near you, we'll subsidise your grocery shop at an organic food store.
+__Community Supported Agriculture (CSA) allowance__: Fresh, organic, local fruits and vegetables are great to have on-hand so we'll pay for a local CSA membership for you. It's up to you to find a supplier, and then expense the cost up to $1000/year. If there's no CSA near you, we'll subsidise your grocery shop at an organic food store.
 
-_Work wherever you want_: Work from anywhere in the world. Move cities, keep your job. Of course, sometimes you'll need to get together with a client to help them with something you can't do remotely; that's how clients roll.
+__Work wherever you want__: Work from anywhere in the world. Move cities, keep your job. Of course, sometimes you'll need to get together with a client to help them with something you can't do remotely; that's how clients roll.
