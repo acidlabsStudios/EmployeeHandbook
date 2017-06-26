@@ -5,7 +5,7 @@ Honesty. Err on the side of openness. Always. There’s no such thing as too hon
 Trust. Believe the best in people, until they prove to you otherwise. Take the trust that others place in you to heart. Trust each other to be good and fair, and trust our clients to be the same. Behave the way you expect others to, and make good things happen. A good rule of thumb is "what would you do for a friend or a neighbor if they asked for help?"
 Simplicity. The essentials are all you need. Focus is a limited resource. A good litmus test is “What would happen if I didn’t do this?”. This pretty much goes alongside honesty and trust. Nobody here is expected to do more than is needed, but we are all expected to do the best we can, not the minimum.
 Passion. Connect with what gives you meaning. Have a burning desire to help others feel the same way. On fire is the only way to be. As we said above, do your best. Your best work. Your best advice. Your best effort on a problem. But never alone - ask for the help you need so you don't have to do less than your best.
-## To help people design smarter, more efficient and effective, happier organisation
+## To help people design smarter, more efficient and effective, happier organisations
 That's what we're here to do.
 
 The organisations we work with are better at what they do because we helped them design it that way - and they’re happier and more effective because of our work. It's our job to help them unpick the puzzle they've become lost by, and help them reassemble it in such a way as all the pieces are there and it's beautiful.
