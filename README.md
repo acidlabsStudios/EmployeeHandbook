@@ -1,6 +1,5 @@
 # acidlabs Studios Employee Handbook
 The first thing you should know is that, in the words of Maui, "you're welcome!", though not in the be thankful sense, rather in the sense that, you are welcome here.
-![You're welcome!](https://3.basecamp.com/3094635/blobs/cfe8806503f2b8bbda16397b334d1a1e0010/download/maxresdefault.jpg)
 
 We've created this handbook so that when a new person joins us, they don't need to figure things out for themselves. Large parts of it are inspired by [Basecamp's public employee handbook](https://github.com/basecamp/handbook). Hey, they did the work so companies like ours don't need to start from scratch.
 
