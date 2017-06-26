@@ -9,11 +9,11 @@ The business name is __acidlabs Studios__ in all cases. The letter "a" in acidla
 e.g. _At acidlabs Studios, we work with you to make your business better._
 
 ### Naming projects
-When naming a project, the format is __[XX-fyfynn] <some project name>__, where:
+When naming a project, the format is __[XX-fyfynn] ```<some project name>```__, where:
 * _XX_ - an all caps two-letter code for the organisation we're working with or through. Internal projects will use __AC__ for acidlabs Studios. Where we have directly won the engagement, we'll use a code that makes it apparent who the client is. If we are loaning out someone to another studio or agency, we create a similar code for them. For example, __FX__ for FinXL and __UB__ for Unbranded Sports Preparation.
 * _fyfy_ - two digits representing the financial year the project began. So, for example, a project starting in the 2017-2018 financial year will use __1718__.
 * _nn_ - two digits incremented to show how many projects we've done across the entire financial year. The first project is __01__, and so on. Project numbers for an individual client won't necessarily be consecutive, as other projects will occur in between.
-* _<some project name>_ - a descriptive name for the project.
+* ```_<some project name>_``` - a descriptive name for the project.
 
 ### Email and your .sigfile
 By preference, email is sent plain text or rich text and never HTML (unless it's an EDM).
@@ -56,6 +56,7 @@ In formal written communications including proposals and contracts:
 * Stephen
 * Nathanael
 * Kara
+
 In communication with existing clients and spoken form (all instances):
 * Steve
 * Nat
