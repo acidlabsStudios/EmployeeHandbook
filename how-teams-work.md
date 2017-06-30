@@ -42,7 +42,7 @@ A team is ideally two or three people, depending on the type of work. That’s i
 
 We think three is the ideal size for most things — complexity begins to increase exponentially beyond that.
 
-Exceptions happen for full-time outposted work, where you might be an acidlabs Studios person on site with a client for an extended period. We'll make sure you get a day a week off-site to work with us.
+Exceptions happen for full-time outposted work, where you might be an acidlabs Studios person on site with a client for an extended period. We'll do our best to make sure you get a day every one-to-two-weeks off-site to work with us.
 
 Teams are assembled ad-hoc. Before a project begins, we ask each person what kind of work they’d like to do over the life of the project. Teams either coalesce around areas of interest, or we assign people to a team based on their preferences. Teams often change up after the project so everyone gets a chance to work with different people, but sometimes they stick together for a few projects. There are no hard and fast rules about this.
 
