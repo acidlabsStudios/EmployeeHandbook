@@ -23,7 +23,7 @@ There are also a bunch of pieces on the web you might like to read or watch. Thi
 * [Quit those time wasting meetings](http://www.huffingtonpost.com.au/2017/02/08/quit-those-time-wasting-meetings/) - on the pointlessness of meetings and a few alternatives.
 * [How I Set Aside Two Days Each Week To Work On Just One Thing](https://www.fastcompany.com/3068137/work-smart/how-i-set-aside-two-days-each-week-to-work-on-just-one-thing) - On focussed work, and why it works.
 * New words in 2017 from Jason Fried on [how he runs his business](https://medium.com/strong-words/dont-let-it-get-out-of-control-9da8b517d7d2).
-* [The Calm Company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457) - something we want to be and will work to make happen, also the title of a new book from Jason Fired and DHH 
+* [The Calm Company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457) - something we want to be and will work to make happen, also the title of a new book from Jason Fried and DHH 
 * This outstanding series by Dr Cameron Sepah on company culture is worth your time and effort - [Part 1](https://worldpositive.com/your-companys-culture-is-who-you-hire-fire-and-promote-c69f84902983), [Part 2](https://medium.com/@DrSepah/your-company-culture-is-who-you-hire-fire-promote-part-2-anatomy-of-an-asshole-dba4f801b9f5), [Part 3](https://medium.com/@DrSepah/your-company-culture-is-who-you-hire-fire-promote-part-2-anatomy-of-an-asshole-dba4f801b9f5)
 
 Jason Fried of Basecamp is someone we consider to have the right handle on the way business should be run. Here are links to several videos of conversations with and talks from Jason:
