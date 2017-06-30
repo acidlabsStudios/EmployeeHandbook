@@ -1,4 +1,4 @@
-# Where we work
+# Where (and when) we work
 
 ## Office
 
