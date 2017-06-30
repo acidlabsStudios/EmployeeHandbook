@@ -1,6 +1,6 @@
 # Style guide
 
-The things in this document refer equally to pitches, bids, public blogging under the acidlabs Studios banner, social media, etc. Consistency is <insert non-gender-specific royal title here>.
+The things in this document refer equally to pitches, bids, public blogging under the acidlabs Studios banner, social media, etc. Consistency is ```<insert non-gender-specific royal title here>```.
 
 ## The business
 
