@@ -5,7 +5,8 @@ This is our _living_ guide to working at acidlabs Studios. In here, you'll find 
 ### Contents
 
 There's a notional reading order you can follow, though it's not critical.
-0. [README](README.md) (this document)
+
+[README](README.md) (this document)
 1. [Introduction](introduction.md)
 2. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
 3. [What we stand for](what-we-stand-for.md)
