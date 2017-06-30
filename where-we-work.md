@@ -16,3 +16,9 @@ Working from home all the time isn't everyone's cup of coffee. Thus, we sometime
 ## From a coworking space somewhere else
 
 If working for home or from a coffee shop doesn't suit you and you're not in Canberra, then trying a coworking space might just do the trick. We offer $100/month towards a desk in such a place.
+
+## Working hours
+
+YOur working hours are up to you. Want to work a regular 9-5? Keen. Got kids and need to be there for them before and after school? Work around that need. Night owl? Work after dark. Whatever
+
+The only caveats to this is if you are on a project with a team in-studio and they need you, you need to be available for a crossover of 2-4 hours as agreed with your team and if you're on-site with a client, you need to negotiate your hours with them, but will probably need to work normal office hours.
