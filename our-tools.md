@@ -31,3 +31,5 @@ __Proposify__: We use this proposal management tool to build out proposals for c
 URL: https://acidlabsstudios.proposify.biz/proposals/
 
 __Smaply__: For journey mapping, stakeholder mapping and personas.
+
+URL: https://app.smaply.com/#acidlabsstudios/projects
