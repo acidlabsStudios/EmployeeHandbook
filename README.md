@@ -15,4 +15,18 @@ If you’re reading this just after joining the company, it’s particularly on 
 
 __Contents__
 There's a notional reading order you can follow, though it's not critical.
-1. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
+1. [Introduction](README.md)
+2. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
+3. [What we stand for](what-we-stand-for.md)
+4. [What influenced us, or The big-assed culture, style, howto and practice reading list and other things](influences.md)
+5. [Who does what?](who-does-what.md)
+6. [Where we work](where-we-work.md)
+7. [Benefits and perks](benefits-and-perks.md)
+8. [Benefits and perks - short-term contractors](benefits-and-perks-contractors.md)
+9. [Getting started](getting-started.md)
+10. [How teams work](how-teams-work.md)
+11. [Career path](career-path.md)
+12. [Our internal tools](our-internal-tools.md)
+13. [Can I do something else and work here?](moonlighting.md)
+14. [Why international travel is nonsense and will probably drive you crazy](international-travel.md)
+15. [Style guide](style-guide.md)
