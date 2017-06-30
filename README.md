@@ -18,7 +18,7 @@ There's a notional reading order you can follow, though it's not critical.
 9. [Getting started](getting-started.md)
 10. [How teams work](how-teams-work.md)
 11. [Career path](career-path.md)
-12. [Our internal tools](our-internal-tools.md)
+12. [Our tools](our-tools.md)
 13. [Can I do something else and work here?](moonlighting.md)
 14. [Why international travel is nonsense and will probably drive you crazy](international-travel.md)
 15. [Style guide](style-guide.md)
