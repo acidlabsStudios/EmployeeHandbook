@@ -12,3 +12,7 @@ This handbook also helps clarify who we actually are as a company. What do we st
 That acidlabs Studios is a living example of the way we help our clients is a guiding principle, but we can’t easily improve what we haven’t written down. Whatever version of this handbook you’re reading, you can be sure it’s not the last. Please help keep it up to date! And by up to date, we're not just talking about misspellings and team changes. It’s just as much “we say we’re about X, but what we’re really doing is Y”. So many of these employee handbook projects turn out to be ideal-case prescriptions rather than real-world descriptions. They cover all the ways people should act, not the ways they actually do. That’s bulldust (to use a very Australian phrase). Let’s not have a handbook like that. Let’s keep it honest and reflective of our own walking the talk.
 
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us old hands to see the broken bits. Take advantage of that glorious, shiny ignorance of being new, and question things. There are no stupid questions, only stupid answers.
+
+__Contents__
+There's a notional reading order you can follow, though it's not critical.
+1. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
