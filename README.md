@@ -1,6 +1,7 @@
 # acidlabs Studios Employee Handbook
 
-__Contents__
+### Contents
+
 There's a notional reading order you can follow, though it's not critical.
 1. [Introduction](README.md) (this document)
 2. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
