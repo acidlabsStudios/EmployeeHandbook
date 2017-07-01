@@ -1,4 +1,4 @@
-# Benefits and perks - Short-term contractors
+# Benefits and perks - Contractors
 
 Even if you're a short-term contractor we think you should be entitled to the same benefits as everyone else. While we're getting to know you, prior to making you a permanent offer, one of the ways we trial you working here is through a short-term contract, usually one to three months. During that time, we still treat you like a member of staff, but with fewer benefits.
 
