@@ -44,3 +44,5 @@ We're quite keen on the thinking from [Claire Lew](https://medium.com/@cjlew23) 
 Jared Spool at [UIE](https://www.uie.com/) definitely leads the design industry. His [regular posts on Medium](https://medium.com/@jmspool) are well worth your time.
 
 Jason and Jodi Womack of [Get Momentum](https://getmomentum.com/) are friends and mentors. They're certainly leaders on professional and personal development.
+
+And, a bunch of people in and around design, government, and innovation you should be listening to include (but are by no means limited to) Ash Donaldson, [Mike Montiero](https://medium.com/@monteiro), Pia Waugh, Kristin Alford, [C Todd Lombardo](https://medium.com/@iamctodd), [Richard Banfield](https://medium.com/@freshtilledsoil), [Nat Torkington](https://www.oreilly.com/topics/four-short-links), Kaila Colbin, [Dave Gray](https://medium.com/@davegray).
