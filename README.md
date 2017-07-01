@@ -14,7 +14,7 @@ There's a notional reading order you can follow, though it's not critical.
 5. [Who does what?](who-does-what.md)
 6. [Where (and when) we work](where-we-work.md)
 7. [Benefits and perks](benefits-and-perks.md)
-8. [Benefits and perks - short-term contractors](benefits-and-perks-contractors.md)
+8. [Benefits and perks - Contractors](benefits-and-perks-contractors.md)
 9. [Getting started](getting-started.md)
 10. [How teams work](how-teams-work.md)
 11. [Career path](career-path.md)
