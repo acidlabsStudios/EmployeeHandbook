@@ -39,10 +39,8 @@ Jason Fried of Basecamp is someone we consider to have the right handle on the w
 
 There are [two full-length interviews](http://bigthink.com/experts/jasonfried) with [Jason Fried](https://medium.com/@jasonfried/) available at Big Think. If they're too long for you right now, there are snippets available from both that are well worth watching and available at the same URL.
 
-We're quite keen on the thinking from [Claire Lew](https://medium.com/@cjlew23) of [Know Your Company](https://knowyourcompany.com/) (a spinoff from Basecamp). She writes semi-regularly on their [blog](https://blog.knowyourcompany.com/). You can also see Claire speak as she's [posted several of her talks](https://knowyourcompany.com/talks).
-
 Jared Spool at [UIE](https://www.uie.com/) definitely leads the design industry. His [regular posts on Medium](https://medium.com/@jmspool) are well worth your time.
 
 Jason and Jodi Womack of [Get Momentum](https://getmomentum.com/) are friends and mentors. They're certainly leaders on professional and personal development.
 
-And, a bunch of people in and around design, government, and innovation you should be listening to include (but are by no means limited to) Ash Donaldson, [Mike Montiero](https://medium.com/@monteiro), Pia Waugh, Kristin Alford, [C Todd Lombardo](https://medium.com/@iamctodd), [Richard Banfield](https://medium.com/@freshtilledsoil), [Nat Torkington](https://www.oreilly.com/topics/four-short-links), Kaila Colbin, [Dave Gray](https://medium.com/@davegray).
+And, a bunch of people in and around design, government, and innovation you should be listening to include (but are by no means limited to) Ash Donaldson, [Mike Montiero](https://medium.com/@monteiro), [Claire Lew](https://medium.com/@cjlew23), Pia Waugh, Kristin Alford, [C Todd Lombardo](https://medium.com/@iamctodd), [Richard Banfield](https://medium.com/@freshtilledsoil), [Nat Torkington](https://www.oreilly.com/topics/four-short-links), Kaila Colbin, [Dave Gray](https://medium.com/@davegray).
