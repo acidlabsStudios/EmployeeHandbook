@@ -1,7 +1,8 @@
 # What influenced us, or The big-assed culture, style, howto and practice reading list and other things
 
-If you want to learn the acidlabs Studios view of the world, it helps to know the influences that helped form it. acidlabs Studios has been around since 2006. Most of that time as a one-person show. Since then there's been a number of key influencers that have marked the company culture.
+If you want to learn the acidlabs Studios view of the world, it helps to know the influences that helped form it. acidlabs Studios has been around since 2006. Most of that time as a one-person show. Since then there's been a number of key influencers and influences that have marked the company culture.
 
+## Things to read
 Below is a bunch of reading we consider influential on us and the culture we're trying to build at acidlabs. Feel free to read them at your leisure. We're putting it here in a document so they remains easy to find.
 
 The list of influential books we like is collected at [Goodreads](https://www.goodreads.com/review/list/3178326-stephen-collins?shelf=business-culture-reading-list), with regular additions of new stuff that may be interesting to you. We have access to many of these as physical books and are more than happy to loan them. Some Kindle books can also be loaned, but that's getting more rare.
@@ -26,10 +27,20 @@ There are also a bunch of pieces on the web you might like to read or watch. Thi
 * [The Calm Company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457) - something we want to be and will work to make happen, also the title of a new book from Jason Fried and DHH 
 * This outstanding series by Dr Cameron Sepah on company culture is worth your time and effort - [Part 1](https://worldpositive.com/your-companys-culture-is-who-you-hire-fire-and-promote-c69f84902983), [Part 2](https://medium.com/@DrSepah/your-company-culture-is-who-you-hire-fire-promote-part-2-anatomy-of-an-asshole-dba4f801b9f5), [Part 3](https://medium.com/@DrSepah/your-company-culture-is-who-you-hire-fire-promote-part-2-anatomy-of-an-asshole-dba4f801b9f5)
 
+## Things to watch
 Jason Fried of Basecamp is someone we consider to have the right handle on the way business should be run. Here are links to several videos of conversations with and talks from Jason:
 * [At The Future of Work Summit](https://youtu.be/Qlc7IZuXsfY) in October 2016, speaking with The Atlantic's Derek Thompson
 * [At Lean Startup 2016](https://youtu.be/r_cc-JrTe38) discussing time at work
 * [At Chicago Creative Mornings](https://youtu.be/UZGS_IOPZpk) in July 2011
 * [At TEDxMidwest](https://youtu.be/5XD2kNopsUs) in October 2010 on why the best work doesn't always happen at work (and why we work the way we do)
 
-There are also [two full-length interviews](http://bigthink.com/experts/jasonfried) with Jason available at Big Think. If they're too long for you right now, there are snippets available from both that are well worth watching and available at the same URL.
+## People
+[Umair Haque](https://medium.com/@umairh) represents the kind of thinking we're most engaged by. His books [The New Capitalist Manifesto](https://www.goodreads.com/book/show/9317923-the-new-capitalist-manifesto) and [Betterness](https://www.goodreads.com/book/show/13274256-betterness) represent the kind of thinking about the world we want want to exhibit in our doing.
+
+There are [two full-length interviews](http://bigthink.com/experts/jasonfried) with [Jason Fried](https://medium.com/@jasonfried/) available at Big Think. If they're too long for you right now, there are snippets available from both that are well worth watching and available at the same URL.
+
+We're quite keen on the thinking from [Claire Lew](https://medium.com/@cjlew23) of [Know Your Company](https://knowyourcompany.com/) (a spinoff from Basecamp). She writes semi-regularly on their [blog](https://blog.knowyourcompany.com/). You can also see Claire speak as she's [posted several of her talks](https://knowyourcompany.com/talks).
+
+Jared Spool at [UIE](https://www.uie.com/) definitely leads the design industry. His [regular posts on Medium](https://medium.com/@jmspool) are well worth your time.
+
+Jason and Jodi Womack of [Get Momentum](https://getmomentum.com/) are friends and mentors. They're certainly leaders on professional and personal development.
