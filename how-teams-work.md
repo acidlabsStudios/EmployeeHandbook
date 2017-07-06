@@ -17,10 +17,14 @@ Third, and finally, there are [the team updates](https://3.basecamp.com/3094635/
 When you have an idea for something we should change or improve and the idea feels formed enough, it’s turned into a pitch. A pitch is a fully-formed definition of the problem as well as a proposed solution. We don’t pitch in person — we always write up pitches and post them to Basecamp for review.
 
 Why don’t we pitch in person? For a few reasons:
-1. _We feel it’s better to write something up completely. This forces the floor_ — the person who’s making the pitch can’t be interrupted. They are guaranteed to be able to present their story completely, exactly as they wanted.
-2. Further, we believe _writing things out makes you consider them at a deeper level_.
-3. _We’re big believers in asynchronous communication_ — write it down now and other people can absorb it later when they’re ready. Real-time communication in person or virtually forces synchronisation of schedules which is highly inefficient.
-4. And last, _when it’s posted to Basecamp as a message, all feedback and follow up questions are automatically attached to the original post_ — This keeps all communication about the pitch centralised in one place on one page so everyone has access to the same story. One version of the truth.
+
+__We feel it’s better to write something up completely. This forces the floor__ — the person who’s making the pitch can’t be interrupted. They are guaranteed to be able to present their story completely, exactly as they wanted.
+
+Further, we believe __writing things out makes you consider them at a deeper level__.
+
+__We’re big believers in asynchronous communication__ — write it down now and other people can absorb it later when they’re ready. Real-time communication in person or virtually forces synchronisation of schedules which is highly inefficient.
+
+And last, __when it’s posted to Basecamp as a message, all feedback and follow up questions are automatically attached to the original post__ — This keeps all communication about the pitch centralised in one place on one page so everyone has access to the same story. One version of the truth.
 
 ## Asynchronously
 
