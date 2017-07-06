@@ -35,9 +35,9 @@ e.g. _We work flexibly. I'm sending you this email now because it suits me, but 
 
 ### Spelling and grammar
 The [Macquarie Dictionary](https://www.macquariedictionary.com.au/) is your friend. As the official dictionary of Australian English, it generally accepts both alternatives of what are considered to be British and American English spellings. We have a few common practices:
-* simpler, less flourishy, spellings are better, e.g. favorite not favourite
+* simpler, less flourishy, spellings are better, e.g. favorite _not_ favourite
 * we use "s" rather than "z" in things such as "ise", e.g. organise _not_ organize
-* we tend not to use periods in abbreviations, e.g. USA not U.S.A., Ms not Ms.
+* we tend not to use periods in abbreviations, e.g. USA _not_ U.S.A., Ms _not_ Ms.
 * check it using [Grammarly](https://www.grammarly.com/) or something similar
 * our preferred citation method is APA and we use [Cite This For Me](https://www.citethisforme.com/) to help us build citations and references
 * failing all else, just be consistent and don't mix spelling and grammar styles
