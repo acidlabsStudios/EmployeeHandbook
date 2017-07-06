@@ -10,7 +10,7 @@ There's a notional reading order you can follow, though it's not critical.
 1. [Introduction](introduction.md)
 2. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
 3. [What we stand for](what-we-stand-for.md)
-4. [The Work We Look To Do](the-work-we-look-to-do.md)
+4. [The work we look to do](the-work-we-look-to-do.md)
 5. [What influenced us, or The big-assed culture, style, howto and practice reading list and other things](influences.md)
 6. [Who does what?](who-does-what.md)
 7. [Where (and when) we work](where-we-work.md)
