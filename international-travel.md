@@ -83,9 +83,9 @@ If you don't need your work laptop (or tablet/phone), don't bring it with you! W
 * Clear browser cookies, logging you out of all work sites.
   * Laptops: Clear cookies in Chrome, Safari, etc.
   * [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
-  * [Android](https://support.apple.com/en-us/HT201265): Chrome > Settings > Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
+  * [Android](https://support.apple.com/en-us/HT201265): Chrome > Settings > Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. Clear data.
 * Sensitive documents
-  *Make an encrypted backup and remove from your laptop.
+  * Make an encrypted backup and remove from your laptop.
 * Dropbox or Google Drive
   * Log out and disconnect.
 * Touch ID (optional)
@@ -95,10 +95,12 @@ If you don't need your work laptop (or tablet/phone), don't bring it with you! W
 * Have your passport, ESTA or other waiver, invitation letter, and hotel address ready.
 * Ensure your devices are charged up and turned on. Customs may baulk at a bricked phone or laptop.
 * Common questions:
-  * The purpose of your visit? _I'm here for a business meeting in <place>._
-  * Here to do work? _Nope! Here on business with <client>/for the <blah> conference in <place>/meeting with <client>._
-  * Where are you staying? <hotel name and phone>.
+  * The purpose of your visit? _I'm here for a business meeting in ```<place>```._
+  * Here to do work? _Nope! Here on business with ```<client>```/for the ```<blah>``` conference in ```<place>```/meeting with ```<client>```._
+  * Where are you staying? _I'm staying at ```<hotel name, address, and phone>```._
+  
   Be straightforward and truthful. You're legit! No need to be cagey or misleading.
+  
 ## Checklist: When You Arrive
 * Let us know! Mention in HQ Campfire when you're through Customs and have arrived at your destination.
 * Touch ID: Reenable on your phone, tablet, and laptop.
