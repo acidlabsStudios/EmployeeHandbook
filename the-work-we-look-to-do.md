@@ -1,4 +1,4 @@
-# The Work We Look To Do
+# The work we look to do
 
 Nobody and no thing is perfect. The work we do as people and as a company will sometimes include things that don't excite us, that seem mundane, or that we sense may never see the light of day. That's the reality we live in.
 
