@@ -12,7 +12,7 @@ __Xero__ - Company finances are managed with Xero. You'll have access for lodgin
 
 URL: https://go.xero.com/Dashboard/Default.aspx
 
-__Basecamp__ - You're using it. It's our lifeblood.
+__Basecamp__ - You'll use it every day. It's our lifeblood.
 
 URL: https://3.basecamp.com/3094635/projects
 
