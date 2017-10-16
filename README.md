@@ -14,7 +14,7 @@ There's a notional reading order you can follow, though it's not critical.
 5. [What influenced us, or The big-assed culture, style, howto and practice reading list and other things](influences.md)
 6. [Who does what?](who-does-what.md)
 7. [Where (and when) we work](where-we-work.md)
-8. [Benefits and perks - permanent staff](benefits-and-perks.md)
+8. [Benefits and perks - Permanent staff](benefits-and-perks.md)
 9. [Benefits and perks - Contractors](benefits-and-perks-contractors.md)
 10. [Getting started](getting-started.md)
 11. [How teams work](how-teams-work.md)
