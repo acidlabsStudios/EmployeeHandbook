@@ -52,7 +52,7 @@ Teams are assembled ad-hoc. Before a project begins, we ask each person what kin
 
 ## Do we have dedicated project managers?
 
-No. The lead service designer on the team leads the project, but there’s a very close working relationship between that person and everyone else. They work together on everything.
+No. The lead designer on the team usually leads the project, but there’s a very close working relationship between that person and everyone else. They work together on everything.
 
 No matter the role, everyone tracks work in the same place, communicates in the same place, etc. That's Basecamp, and definitely not in email. When everything’s in one place, everyone knows where things are, where things stand, and everyone can be self-sufficient. Splitting work and communication and management across separate tools/products is:
 highly inefficient, and 
