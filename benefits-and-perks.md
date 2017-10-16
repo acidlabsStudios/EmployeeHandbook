@@ -1,4 +1,4 @@
-# Benefits and perks
+# Benefits and perks - Permanent staff
 
 At acidlabs Studios, everyone is a member of the family. Whether you're an Australian or an overseas permanent employee we think you should be entitled to the same benefits as everyone else.
 
