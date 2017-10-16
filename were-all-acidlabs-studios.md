@@ -4,7 +4,7 @@ Everyone working at acidlabs Studios represents acidlabs Studios. When a client 
 
 That’s what we mean when we say marketing is everyone’s responsibility, and that it pays to spend the time to recognize that. This means avoiding the bullshit of management-speak and bending policies to fit needs within reason, not just listening. It means taking the time to get the words right and consider how you’d feel if you were on the other side of the interaction.
 
-It also means that you’re strongly encouraged to help share your thoughts, experiences, and learnings on [Lab Notes](http://acidlabs.org/lab-notes/), our blog. Many of our clients come from word of mouth and much of that word comes from people in our audience. Your voice is part of us now. Tell us and our audience what you have to say!
+It also means that you’re strongly encouraged to help share your thoughts, experiences, and learnings on [Lab Notes](https://notes.acidlabs.org/), our blog. Some (ideally more) of our clients come from word of mouth and much of that word comes from people in our audience. Your voice is part of us now. Tell us and our audience what you have to say!
 
 This goes for tools and techniques as much as it goes for prose. acidlabs Studios not only tries to offer more informative lessons than our competition, but also share and collaborate better. Extracting the common lessons learned that others could use is satisfying, important work, and we should continue to do that.
 
