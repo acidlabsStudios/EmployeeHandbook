@@ -1,6 +1,6 @@
 # Can I do something else and work here?
 
-Moonlighting somewhere else means working other professional, paid jobs outside of your work at acidlabs Studios. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavours outside of acidlabs Studios don’t create conflicts of interest or affect your time, dedication, or performance at acidlabs Studios. So it’s a balance.
+Moonlighting somewhere else means working other professional, paid jobs outside of your work at acidlabs. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavours outside of acidlabs don’t create conflicts of interest or affect your time, dedication, or performance at acidlabs. So it’s a balance.
 
 With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
 
@@ -12,7 +12,7 @@ __An occasional speaking gig, free or paid that isn't related to your work here_
 
 __A side business that’s different from your day job, as long as the commitment is only a few hours a week__ - If you come to work exhausted because you’re trying to start a full-time business on the side, it’s going to affect your performance here.
 
-__Serve as an advisor for another company, or be on a board, as long as there’s no conflict of interest__ - The time commitment must be under a few hours a month. And if there’s a scheduling conflict, acidlabs Studios gets priority.
+__Serve as an advisor for another company, or be on a board, as long as there’s no conflict of interest__ - The time commitment must be under a few hours a month. And if there’s a scheduling conflict, acidlabs gets priority.
 
 __Do volunteer or occasional pro-bono work for a cause you’re actively involved with__ - A little work here and there is fine, but, for example, becoming an organisation’s full-time web designer and being on the hook to work during your standard work day would not be OK.
 
