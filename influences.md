@@ -1,11 +1,11 @@
 # What influenced us, or The big-assed culture, style, howto and practice reading list and other things
 
-If you want to learn the acidlabs Studios view of the world, it helps to know the influences that helped form it. acidlabs Studios has been around since 2006. Most of that time as a one-person show. Since then there's been a number of key influencers and influences that have marked the company culture.
+If you want to learn the acidlabs view of the world, it helps to know the influences that helped form it. acidlabs has been around since 2006. Most of that time it was a one-person show with Steve as the only employee. All that changed beginning 2013. Since the beginning there have been a number of key influencers and influences that have marked the company culture.
 
 ## Things to read
 Below is a bunch of reading we consider influential on us and the culture we're trying to build at acidlabs. Feel free to read them at your leisure. We're putting it here in a document so they remains easy to find.
 
-The list of influential books we like is collected at [Goodreads](https://www.goodreads.com/review/list/3178326-stephen-collins?shelf=business-culture-reading-list), with regular additions of new stuff that may be interesting to you. We have access to many of these as physical books and are more than happy to loan them. Some Kindle books can also be loaned, but that's getting more rare.
+The list of influential books we like is collected at [Goodreads](https://www.goodreads.com/review/list/3178326-stephen-collins?shelf=business-culture-reading-list), with regular additions of new stuff that may be interesting to you. We have access to many of these as physical books and are more than happy to loan them. Some Kindle books can also be loaned, but that's getting more difficult.
 
 We're big fans of:
 * [Flow](https://www.goodreads.com/book/show/117101.Flow) by Mihalyi Cziksenmihalyi as it illustrates why and how the ability to focus intensely on something is incredibly beneficial
