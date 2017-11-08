@@ -17,7 +17,7 @@ The organisations we work with are better at what they do because we helped them
 
 Most organisations band-aid together a bunch of tools, processes, and ways of doing and presenting things as they grow. Over time, this turns into a potentially nasty hairball of confusion and it eventually catches up to them. The way they did things and understood their worlds stops working.
 
-This is where acidlabs Studios comes in.
+This is where acidlabs comes in.
 
 We help organisations better understand their people, their customers and clients, their business, and their products and services so they can do what they do better.
 ## The way we do things around here
@@ -30,9 +30,9 @@ __We have a firm *no assholes rule*__ - let's all stick by it. You can [read the
 
 __We *communicate openly and with honesty*__ - raise problems and questions early and often. If you feel like you need to call something out that's bugging you, ask a question or get help with anything, just ask. There are no stupid questions.
 
-__*Everything goes on Basecamp* except personal matters__ - please don’t use email for any internal communication. Everything we do can happen here, or be linked here. There's nothing that's hidden at acidlabs Studios, though you may not be actively circulated on everything. If you want to see something, ask. You should trust all your colleagues will share information with you fully and often.
+__*Everything goes on Basecamp* except personal matters__ - please don’t use email for any internal communication. Everything we do can happen on or be linked to Basecamp. There's nothing that's hidden at acidlabs, though you may not be actively circulated on everything. If you want to see something, ask. You should trust all your colleagues will share information with you fully and often.
 
-__*Your time is your own* to manage__ - we expect 32-38 hours a week of your best work out of you, and that you go home on time. Your time is not ours to take away and fill with pointless meetings. You'll meet face-to-face with other team members and clients only as needed and you'll certainly need to be present during those times - probably around two hours each day. But those things should be fairly rare. We don't mind when you do your work, so long as the outcome gets done. We need you to have time to think and do your work and live a balanced life, not attend meetings that could be handled another way! We should only request face-to-face meetings of each other when Basecamp can't handle what you want to do.
+__*Your time is your own* to manage__ - if you're full time, we expect 32-38 hours a week of your best work from you, and that you go home on time. Part-timers, contractors, and casuals obviously have different hours. Your time is not ours to take away and fill with pointless meetings. You'll meet face-to-face with other team members and clients only as needed and you'll certainly need to be present during those times - probably around two hours each day. But those things should be fairly rare. We don't mind when you do your work, so long as the outcome gets done. We need you to have time to think and do your work and live a balanced life, not attend meetings that could be handled another way! We should only request face-to-face meetings of each other when Basecamp can't handle what you want to do.
 
 __We're about *outcomes not face time*__ - on top of the rule above, if you get your work done in 20 hours not 32, good on you. Use the extra time you have to help out somewhere else with another project, invent something of use to the company, or check with your team lead and maybe grab an extra personal day for yourself.
 
