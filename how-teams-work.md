@@ -28,7 +28,7 @@ And last, __when it’s posted to Basecamp as a message, all feedback and follow
 
 ## Asynchronously
 
-People work all sorts of hours and from all sorts of places at acidlabs Studios. This makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature, not a bug. Most of the work you do shouldn’t require you to be in constant communication throughout the entire day with someone.
+People work all sorts of hours and from all sorts of places at acidlabs. This makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature, not a bug. Most of the work you do shouldn’t require you to be in constant communication throughout the entire day with someone.
 
 It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message, a to-do, or a document about what you need to explain or need to know. Then others can read it on their schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time.
 
@@ -46,7 +46,7 @@ A team is ideally two or three people, depending on the type of work. That’s i
 
 We think three is the ideal size for most things — complexity begins to increase exponentially beyond that.
 
-Exceptions happen for full-time outposted work, where you might be an acidlabs Studios person on site with a client for an extended period. We'll do our best to make sure you get a day every one-to-two-weeks off-site to work with us.
+Exceptions happen for full-time outposted work, where you might be an acidlabs person on site with a client for an extended period. We'll do our best to make sure you get a day every one-to-two-weeks off-site to work with us.
 
 Teams are assembled ad-hoc. Before a project begins, we ask each person what kind of work they’d like to do over the life of the project. Teams either coalesce around areas of interest, or we assign people to a team based on their preferences. Teams often change up after the project so everyone gets a chance to work with different people, but sometimes they stick together for a few projects. There are no hard and fast rules about this.
 
@@ -55,21 +55,21 @@ Teams are assembled ad-hoc. Before a project begins, we ask each person what kin
 No. The lead designer on the team usually leads the project, but there’s a very close working relationship between that person and everyone else. They work together on everything.
 
 No matter the role, everyone tracks work in the same place, communicates in the same place, etc. That's Basecamp, and definitely not in email. When everything’s in one place, everyone knows where things are, where things stand, and everyone can be self-sufficient. Splitting work and communication and management across separate tools/products is:
-highly inefficient, and 
-makes it very difficult for the whole team to see the whole picture.
-How long does a project last?
+highly inefficient, and makes it very difficult for the whole team to see the whole picture.
 
-That's a tough one, but we're a fan of three project lengths - six weeks for small projects, 12 weeks for large projects, and for those big government or enterprise projects where the client has the appetite for it, the full 20 weeks for the mature [GDS-style](https://www.gov.uk/service-manual) Discovery-Alpha-Beta-Live project.
+## How long does a project last?
+
+That's a tough one, but we're a fan of three project lengths - six weeks for small projects, 12 weeks for large projects, and for those big government or enterprise projects where the client has the appetite for it, the full 20+ weeks for the mature [GDS-style](https://www.gov.uk/service-manual) Discovery-Alpha-Beta-Live project.
 
 ## Do we track time?
 
-Not in the traditional sense. We do need to have a sense of time taken, though. So that for new projects we can look back to see how to build price based on past work. And we track time internally on projects to make sure people aren't overdoing it and that the price of the project isn't exceeded by the cost of the people on it (this should never happen).
+Not in the traditional sense. We do need to have an understanding of time taken, though. So that for new projects we can look back to see how to build price based on past work. And we track time internally on projects to make sure people aren't overdoing it and that the price of the project isn't exceeded by the cost of the people on it (this should never happen).
 
 So, you'll (mostly) keep time sheets in Harvest. But they don't need to be minute-accurate. 30-60 minute accuracy is enough.
 
 We don’t measure efficiency, compare actuals vs. estimates. We have the agreed project timeline (around 20 weeks for a Discovery-Alpha-Beta-Live cycle, and different timescales for other work) to get something done. How a team decides to get it done during that time is up to them. Pricing work is based on value, not time or cost-plus.
 
-What is important is that we don’t run up to the end and figure out we’re out of time. We’re always looking at what’s done, what’s left, and how much time remains. Scope is ever changing — adjusting down if we’re running low on time, or ramping up if we find we have more time than we thought. It’s a negotiation. It’s a very fluid process. If things do change, you _need to get the word out, fast_, via your team lead and acidlabs Studios leadership.
+What is important is that we don’t run up to the end and figure out we’re out of time. We’re always looking at what’s done, what’s left, and how much time remains. Scope is ever changing — adjusting down if we’re running low on time, or ramping up if we find we have more time than we thought. It’s a negotiation. It’s a very fluid process. If things do change, you _need to get the word out, fast_, via your team lead and acidlabs leadership.
 
 ## How is the actual work organised?
 
