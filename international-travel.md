@@ -62,7 +62,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 ## What's a work device? 
 Anything you have company data on: 
 * your laptop where you work with design and code; 
-* your tablet where you read acidlabs Studios email; 
+* your tablet where you read acidlabs email; 
 * your phone where you use work apps; etc.
 
 ## TL;DR: Don't Travel With Work Data
