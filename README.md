@@ -8,7 +8,7 @@ There's a notional reading order you can follow, though it's not critical.
 
 [README](README.md) (this document)
 1. [Introduction](introduction.md)
-2. [We're all acidlabs](were-all-acidlabs-studios.md)
+2. [We're all acidlabs](were-all-acidlabs.md)
 3. [What we stand for](what-we-stand-for.md)
 4. [The work we look to do](the-work-we-look-to-do.md)
 5. [What influenced us, or The big-assed culture, style, howto and practice reading list and other things](influences.md)
