@@ -1,4 +1,4 @@
-# acidlabs Studios Employee Handbook
+# acidlabs Employee Handbook
 
 This is our _living_ guide to working at acidlabs. In here, you'll find all sorts of things to guide the way we work, your careers, projects, perks and conditions, and so on. If you have suggested changes, you can lodge them as Issues against a given document. At some point early in your time here, you'll be given write access to the repo so you can make your own changes.
 
