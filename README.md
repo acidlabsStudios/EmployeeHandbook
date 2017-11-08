@@ -1,6 +1,6 @@
 # acidlabs Studios Employee Handbook
 
-This is our _living_ guide to working at acidlabs Studios. In here, you'll find all sorts of things to guide the way we work, your careers, projects, perks and conditions, and so on. If you have suggested changes, you can lodge them as Issues against a given document. At some point early in your time here, you'll be given write access to the repo so you can make your own changes.
+This is our _living_ guide to working at acidlabs. In here, you'll find all sorts of things to guide the way we work, your careers, projects, perks and conditions, and so on. If you have suggested changes, you can lodge them as Issues against a given document. At some point early in your time here, you'll be given write access to the repo so you can make your own changes.
 
 ### Contents
 
@@ -8,7 +8,7 @@ There's a notional reading order you can follow, though it's not critical.
 
 [README](README.md) (this document)
 1. [Introduction](introduction.md)
-2. [We're all acidlabs Studios](were-all-acidlabs-studios.md)
+2. [We're all acidlabs](were-all-acidlabs-studios.md)
 3. [What we stand for](what-we-stand-for.md)
 4. [The work we look to do](the-work-we-look-to-do.md)
 5. [What influenced us, or The big-assed culture, style, howto and practice reading list and other things](influences.md)
