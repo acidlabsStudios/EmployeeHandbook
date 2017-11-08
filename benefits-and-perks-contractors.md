@@ -8,15 +8,15 @@ To start with, you naturally (because it's the law) get everything the _Fair Wor
 
 __4-day work weeks__ - We work a Monday-Thursday 8-hour day work week during the Australian summer (or wherever your summer is if you're not in Australia), for a total of 32-hour weeks. Summer hours run from November 1 to February 29. Brand new contractors may have to complete a training program with their team lead to be eligible. 
 
-This potentially looks bad for contractors, as you might work fewer days. Here's how that's not the case: show us the value of something you bring to acidlabs Studios, whether that's skills, knowledge, or something else and we'll pay you the extra day's value each week to bring that into the company. As an alternative, you can take the day off and do something you want somewhere else, whether that's work or play.
+This potentially looks bad for contractors, as you might work fewer days. Here's how that's not the case: show us the value of something you bring to acidlabs, whether that's skills, knowledge, or something else and we'll pay you the extra day's value each week to bring that into the company. As an alternative, you can take the day off and do something you want somewhere else, whether that's work or play.
 
-If you are working in-studio and have responsibilities with a client that mean you have to work on a Friday, you are expected to take an alternate day off (usually the following Monday). If you're working on a client site and the client expectation is a 5-day week, then the extra value you bring to acidlabs Studios is already covered by that work.
+If you are working in-studio and have responsibilities with a client that mean you have to work on a Friday, you are expected to take an alternate day off (usually the following Monday). If you're working on a client site and the client expectation is a 5-day week, then the extra value you bring to acidlabs is already covered by that work.
 
-And while this isn’t a formal benefit, we encourage _normal, healthy work weeks_. We don’t want people working more than 40 hours a week in any sustained fashion. We expect that you'll work something between 32 and 37 hours each week. In a crisis, or a once-every-couple-of-years special push, we may require very short-term extended hours, but otherwise, we strongly encourage a 4-day week, and 8 hours of sleep a night.
+And while this isn’t a formal benefit, we encourage _normal, healthy work weeks_. We don’t want people working more than 40 hours a week in any sustained fashion. We expect that you'll work something between 32 and 38 hours each week. In a crisis, or a once-every-couple-of-years special push, we may require very short-term extended hours, but otherwise, we strongly encourage a 4-5 day week, and 8 hours of sleep a night.
 
 ## Perks
 
-__Fitness allowance__ - acidlabs Studios will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it’s not organised fitness, that’s okay, too. You can use your stipend to pay for race registrations or even new running shoes.  It doesn't accrue, so use it or lose it. Claim it as an expense.
+__Fitness allowance__ - acidlabs will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it’s not organised fitness, that’s okay, too. You can use your stipend to pay for race registrations or even new running shoes.  It doesn't accrue, so use it or lose it. Claim it as an expense.
 
 __Massage allowance__ - Every month, you can expense up to $100 towards a massage as a part of our employee wellbeing program. Stay loose. Like fitness allowance, it doesn't accrue.
 
