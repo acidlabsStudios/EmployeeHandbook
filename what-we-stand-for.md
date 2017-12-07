@@ -24,7 +24,7 @@ We help organisations better understand their people, their customers and client
 
 We have a few basic rules you should be aware of:
 
-__Our most important rule is *you are the boss of your own shit*__ - this means that you should be self-starting and look for things that need doing and offer to do them. If there's something that you think needs to be done that isn't a part of your current project, talk to one of your teammates about it and then pitch it in the HQ Message Board. Don't worry if it's not officially your job - we are trying very hard to work without silos.  
+__Our most important rule is *you are the boss of your own shit*__ - Also known as _Rule 1_, this means that you should be self-starting and look for things that need doing and offer to do them. If there's something that you think needs to be done that isn't a part of your current project, talk to one of your teammates about it and then pitch it in the HQ Message Board. Don't worry if it's not officially your job - we are trying very hard to work without silos.  
 
 __We have a firm *no assholes rule*__ - let's all stick by it. You can [read the book](https://www.goodreads.com/book/show/97905.The_No_Asshole_Rule). 
 
