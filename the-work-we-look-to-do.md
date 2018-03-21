@@ -6,7 +6,7 @@ That said, we can do our utmost to look for and do meaningful work. Here is some
 
 __Does it align with our values?__ Does both the immediate work being done and the ripple effects as a result of it existing align with our core values? Will it help people, with maximum impact, at scale? Or is it supporting something we don't believe in?
 
-__Do we have the capability to do this?__ What skills are required and who has those skills? Is it something shared by everyone or a specialisation only one of us can do? Does it require a highly experienced person or could a less experienced person deliver the desired outcome? Perhaps a mid-level does 80% of the work under the direction of an expert?
+__Do we have the capability to do this?__ What skills are required and who has those skills? Is it something shared by everyone or a specialisation only one of us can do? Does it require a highly experienced person or could a less experienced person deliver the desired outcome? Perhaps a mid-level does 80% of the work under the direction of a more senior person?
 
 __If we won the work, do we have the capacity to deliver?__ If we know what the start and end dates are and the distribution of effort (even, front-loaded, oscillating, or slow ramp up), will we have the necessary people available? Might we want to bring contractors on?
 
