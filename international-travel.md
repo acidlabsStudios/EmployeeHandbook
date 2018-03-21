@@ -65,21 +65,23 @@ Anything you have company data on:
 * your tablet where you read acidlabs email; 
 * your phone where you use work apps; etc.
 
-## TL;DR: Don't Travel With Work Data
+### TL;DR: Don't Travel With Work Data
 If you don't need your work laptop (or tablet/phone), don't bring it with you! Wipe company data from your phone before crossing the US border. Restore it afterwards.
 
 ## Checklist: Before You Travel  
-* Let us know! Share your travel plans and when you expect to arrive in the US.
-* Request an invitation letter from Steve. He'll draft a letter specific to your visit.
+* Let us know! Share your travel plans and when you expect to arrive in your destination.
+* If needed, request an invitation letter from Steve. He'll draft a letter specific to your visit.
 * Update your ESTA or any other waiver online with your travel info and the hotel address.
 * Ensure you have your passport, ESTA or other waiver, invitation letter, and travel details all in order.
 * Put Steve and our attorney on speed dial.
   * If you run into general travel issues or have any questions, contact Steve
-  * If you're detained or encounter some other serious customs headache, contact our attorney directly: Pierre Johannessen (get the phone number from Steve). US Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Pierre is your first call if possible.
-* Secure passwords
-  * Check that your personal 1Password (or other keyfile) vault doesn't have any work logins.
+  * If you're detained or encounter some other serious customs headache, contact our attorney directly: Pierre Johannessen (get the phone number from Steve). Many border authorities are not required to allow you to contact an attorney, but Pierre is your first call if possible.
+* 1Passwords
+  * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the acidlabs team vault instead.
 * Email apps
   * If you use an email app rather than Gmail in your browser, remove the @acidlabs.org account.
+  * Turn on Travel Mode. Go to https://acidlabs.1password.com/profile and click Enable Travel Mode.
+  * Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in Travel Mode.
 * Clear browser cookies, logging you out of all work sites.
   * Laptops: Clear cookies in Chrome, Safari, etc.
   * [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
@@ -88,9 +90,10 @@ If you don't need your work laptop (or tablet/phone), don't bring it with you! W
   * Make an encrypted backup and remove from your laptop.
 * Dropbox or Google Drive
   * Log out and disconnect.
-* Touch ID (optional)
+* Touch ID and Face ID (optional)
   * Unlocking your device can be compelled at US border crossings, but other countries may be less intrusive so it may make sense to make your device a little harder to unlock.
-  * Disable Touch ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
+  * Disable Touch ID and Face ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
+  
 ## Checklist: At Customs
 * Have your passport, ESTA or other waiver, invitation letter, and hotel address ready.
 * Ensure your devices are charged up and turned on. Customs may baulk at a bricked phone or laptop.
@@ -99,17 +102,20 @@ If you don't need your work laptop (or tablet/phone), don't bring it with you! W
   * Here to do work? _Nope! Here on business with ```<client>```/for the ```<blah>``` conference in ```<place>```/meeting with ```<client>```._
   * Where are you staying? _I'm staying at ```<hotel name, address, and phone>```._
   
-  Be straightforward and truthful. You're legit! No need to be cagey or misleading.
+Be straightforward and truthful. You're legit! No need to be cagey or misleading.
   
 ## Checklist: When You Arrive
 * Let us know! Mention in HQ Campfire when you're through Customs and have arrived at your destination.
-* Touch ID: Reenable on your phone, tablet, and laptop.
+* Touch ID and Face ID: Reenable on your phone, tablet, and laptop.
 * Dropbox or Google Drive: Log in and reconnect, but only if needed during travel.
 * Basecamp app: Reinstall on your phone, tablet, and laptop.
+* 1Password: Turn off Travel Mode. Go to https://basecamp.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
 * Email apps: Add your @acidlabs.org account again.
 * Sensitive documents: Download and restore, but only if needed during travel.
+
 ## Checklist: When You Return
 * Same as when you travel! Repeat the checklists for any border crossing, whether into or out of the US or Australia.
+
 ## Any Questions?
 Hitting a snag or have any questions? Ping Steve for help.
 
