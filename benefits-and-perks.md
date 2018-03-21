@@ -50,9 +50,6 @@ When you donate money to a registered charity, acidlabs will make a matching gif
 ### Home office set-up
 Since you probably work remotely, we want to make sure your home office is comfortable. You can expense up to $1,000 to furnish your home office, every three years.
 
-### The right tools
-You may expense an appropriate laptop or desktop device, as well as an external keyboard, mouse and screen on joining acidlabs, and can refresh the main device every two to three years. We don't care whether you want a Mac, a Windows machine, or some wacky homebrew Linux thing. You choose the right tools for you. At three years, a refresh is automatically approved, at two years, you need to justify the purchase.
-
 ### Coworking space allowance
 We will pay up to $100/month for you to use towards renting coworking space in your city. Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
 
