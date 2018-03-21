@@ -10,7 +10,6 @@ This handbook also grants us an opportunity to identify who we are as a company.
 
 There's a notional reading order you can follow, though it's not critical.
 
-* [Introduction](introduction.md)
 * [We're all acidlabs](were-all-acidlabs.md)
 * [What we stand for](what-we-stand-for.md)
 * [The work we look to do](the-work-we-look-to-do.md)
