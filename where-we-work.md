@@ -2,7 +2,9 @@
 
 ## Office
 
-The acidlabs HQ is in Canberra, in the city. We rent desks at [Entry 29](http://entry29.org.au/), our favorite coworking space. Right now, one person (Steve) uses desk space there, but he also works on client site or from home regularly. Anyone is welcome to visit Canberra and work from E29 at any time; we'll cover the cost of your visit.
+The acidlabs HQ is in Canberra, in the city. We rent desks at [Entry 29](http://entry29.org.au/), our favorite coworking space. Right now, one person (Steve) uses desk space there, but he also works on client site or from home regularly. 
+
+Anyone is welcome to visit Canberra and work from E29 at any time; we'll cover the cost of your visit.
 
 ## From home
 
@@ -11,7 +13,7 @@ If you're looking for a recommendation, IKEA's [BEKANT](http://www.ikea.com/au/e
 
 ## From coffee shops
 
-Working from home all the time isn't everyone's cup of coffee. Thus, we sometimes choose to work from coffee shops or other third spaces. Great for a buzz of other people and much-needed caffeine of course, but please do think about basic security rules and procedures to ensure that nothing leaks on to the cafe wifi.
+Working from home all the time isn't everyone's cup of coffee. Sometimes choose to work from coffee shops or other third spaces. Great for a buzz of other people and much-needed caffeine of course, but please do think about basic security rules and procedures to ensure that nothing leaks on to the cafe wifi.
 
 ## From a coworking space somewhere else
 
