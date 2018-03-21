@@ -9,7 +9,7 @@ The business name is __acidlabs__ in all cases. The letter "a" in acidlabs is al
 e.g. _At acidlabs, we work with you to make your business better._
 
 ### Naming projects
-When naming a project, the format is __[XX-fyfynn] ```<some project name>```__, where:
+When naming a project, the format is __XXfyfynn ```<some project name>```__, where:
 * _XX_ - an all caps two-letter code for the organisation we're working with or through. Internal projects will use __AC__ for acidlabs. Where we have directly won the engagement, we'll use a code that makes it apparent who the client is. If we are loaning out someone to another studio or agency, we create a similar code for them. For example, __FX__ for FinXL and __UB__ for Unbranded Sports Preparation.
 * _fyfy_ - two digits representing the financial year the project began. So, for example, a project starting in the 2017-2018 financial year will use __1718__.
 * _nn_ - two digits incremented to show how many projects we've done across the entire financial year. The first project is __01__, and so on. Project numbers for an individual client won't necessarily be consecutive, as other projects will occur in between.
@@ -23,14 +23,22 @@ Our .sigfile format is:
 ```
 -- 
 <your name>
-<email>@acidlabs.design | <mobile phone number> | @<twitter handle> | <optional personal URL such as about.me, Medium, blog, etc.>
+<Your role>
+<email>@acidlabs.design | <mobile phone number> | www.acidlabs.design
+
+@<twitter handle> | <optional personal links such as about.me, LinkedIn, Medium, blog, Skype, etc.>
  
-acidlabs | Better by design | www.acidlabs.design
+acidlabs | Better by design 
  
-<optional additional quote or some such>
+We meet and work on the land of the Ngunnawal people and acknowledge and respect their continuing culture and the contribution they make to the life of this city and this region.
 ```
 
-We don't do legal disclaimers or those kinds of things. Your optional additional quote can be anything that interests you or that you enjoy - work, personal, etc. - so long as it's professional in tone. It's okay for it to be amusing or a little irreverent; we're not the fun police.
+We don't do legal disclaimers or those kinds of things in our email .sigfiles.
+
+We _do_ highly value the Acknowledgement of Country in our email .sigfiles; if you live somewhere else in Australia, you can replace the Ngunnawal people with the name of the traditional owners of the land where you live. If you live outside Australia and there's an equivalent First Peoples acknowledgement where you are, feel free to use it.
+
+If there's no equivalent where you are, this space can be anything that interests you or that you enjoy - work, personal, etc. - so long as it's professional in tone. It's okay for it to be amusing or a little irreverent; we're not the fun police.
+
 e.g. _We work flexibly. I'm sending you this email now because it suits me, but there is no expectation you read, respond or action it outside of your regular working hours._
 
 ### Spelling and grammar
