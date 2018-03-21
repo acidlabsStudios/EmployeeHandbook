@@ -20,7 +20,7 @@ __Highrise__ - Still something of an experiment, we use Highrise for CRM. You'll
 
 URL: https://acidlabs.highrisehq.com/
 
-__Proposify__ - We use this proposal management tool to build out proposals for clients and to do some pipeline management that gets synced with Xero, Highrise and Harvest.
+__Proposify__ - We use this proposal management tool to build out proposals for clients and to do some pipeline management that gets synced with Xero and Highrise.
 
 URL: https://acidlabs.proposify.biz/proposals/
 
