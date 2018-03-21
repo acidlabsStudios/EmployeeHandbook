@@ -26,6 +26,8 @@ __We’re big believers in asynchronous communication__ — write it down now an
 
 And last, __when it’s posted to Basecamp as a message, all feedback and follow up questions are automatically attached to the original post__ — This keeps all communication about the pitch centralised in one place on one page so everyone has access to the same story. One version of the truth.
 
+Steve, Nat, and Kara are the team evaluating pitches.
+
 ## Asynchronously
 
 People work all sorts of hours and from all sorts of places at acidlabs. This makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature, not a bug. Most of the work you do shouldn’t require you to be in constant communication throughout the entire day with someone.
@@ -40,8 +42,7 @@ If it floats your boat, check the [Style Guide](https://github.com/acidlabsdesig
 
 ## Who does the work?
 
-Each client project is assigned a team. So if we take on two client projects during the same period, we’d have one team working on one of the projects and another team working on the other project. Teams stay together for the full project.
-
+Each client project is assigned a team. So if we take on two client projects during the same period, we’d have one team working on one of the projects and another team working on the other project. Teams stay together for the full project. 
 For most engagements, a team is ideally two or three people. That’s it. No teams of four, five, six. It's possibile that some new engagement may pick up the studio as a whole, but we haven't seen it yet.
 
 We think three is the ideal size for most things — complexity begins to increase exponentially beyond that.
@@ -83,7 +84,3 @@ The earlier we start QA the better. QA fits into the project time frame too, so 
 ## How are leadership involved?
 
 Our leaders work with designers to explore ideas early and then help refine and simplify things as we go. They also work with designers on copywriting — making sure the words we’re using make sense. Design reviews aren’t critiques, they are problem-solving sessions.
-
-## There’s more to it, of course…
-
-We’ve tried to outline the major pieces, but we're sure there are gaps. Of course, there are gaps — design work has a lot of _it depends_ moments. But hopefully, there’s enough here to give you a basic sense of how things are set up around here.
