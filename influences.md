@@ -3,17 +3,18 @@
 If you want to learn the acidlabs view of the world, it helps to know the influences that helped form it. acidlabs has been around since 2006. Most of that time it was a one-person show with Steve as the only employee. All that changed beginning 2013. Since the beginning there have been a number of key influencers and influences that have marked the company culture.
 
 ## Things to read
-Below is a bunch of reading we consider influential on us and the culture we're trying to build at acidlabs. Feel free to read them at your leisure. We're putting it here in a document so they remains easy to find.
+The list below are things we consider influential on us and the culture we're trying to build at acidlabs. Feel free to read them at your leisure.
 
-The list of influential books we like is collected at [Goodreads](https://www.goodreads.com/review/list/3178326-stephen-collins?shelf=business-culture-reading-list), with regular additions of new stuff that may be interesting to you. We have access to many of these as physical books and are more than happy to loan them. Some Kindle books can also be loaned, but that's getting more difficult.
+The list of influential books we like is collected at [Goodreads](https://www.goodreads.com/review/list/3178326-stephen-collins?shelf=business-culture-reading-list), with regular additions of new items that may be interesting to you. We have access to many of these as physical books and are more than happy to loan them. Some Kindle books can also be loaned, but that's getting more difficult.
 
 We're big fans of:
 * [Flow](https://www.goodreads.com/book/show/117101.Flow) by Mihalyi Cziksenmihalyi as it illustrates why and how the ability to focus intensely on something is incredibly beneficial
 * [Maverick](https://www.goodreads.com/book/show/32994.Maverick) by Ricardo Semler as it shows that the accepted way of doing business doesn't have to be what you accept
+* [Powerful](https://www.goodreads.com/book/show/36417234-powerful) by Patty McCord describes how Netflix established its culture of responsibility and freedom.
 * [REWORK](https://37signals.com/rework) and [REMOTE](https://37signals.com/remote) by Jason Fried and David Heinemeier Hansson. They're the founders of Basecamp (the company that makes this tool you're using right now) and we very much model acidlabs Studios on the Basecamp way. You should also read the original Basecamp manifesto [Getting Real](https://gettingreal.37signals.com/), which is available online free.
 * [Cubicle Commando](https://www.goodreads.com/book/show/6997692-cubicle-commando) by Lisa Messenger and Zern Liew. It's a great look at (and beautifully designed, BTW) how to change organisations from within to drive innovation and creativity.
 
-None of these are specifically about the technical doing or how-to of what we do at acidlabs Studios (be that design thinking, service, design, ux, cx, strategy, creativity, sketching, blahblahblah, etc.), though they might cover some of that; that's a whole different subject. You can find a lot of books on those subjects on Goodreads as well.
+None of these are specifically about the technical doing or how-to of what we do at acidlabs (be that design thinking, service, design, ux, cx, strategy, creativity, sketching, blahblahblah, etc.), though they might cover some of that; that's a whole different subject. You can find a lot of books on those subjects on Goodreads as well.
 
 There are also a bunch of pieces on the web you might like to read or watch. This list is added to from time to time:
 * [The Hard Data on Being a Nice Boss](https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss) - to understand how we do the no arsehole rule and lead with compassion
@@ -39,10 +40,8 @@ Jason Fried of Basecamp is someone we consider to have the right handle on the w
 
 There are [two full-length interviews](http://bigthink.com/experts/jasonfried) with [Jason Fried](https://medium.com/@jasonfried/) available at Big Think. If they're too long for you right now, there are snippets available from both that are well worth watching and available at the same URL.
 
-Jared Spool at [UIE](https://www.uie.com/) definitely leads the design industry. His [regular posts on Medium](https://medium.com/@jmspool) are well worth your time.
-
 Jason and Jodi Womack of [Get Momentum](https://getmomentum.com/) are friends and mentors. They're certainly leaders on professional and personal development.
 
 [Mark Pesce](https://twitter.com/mpesce) is probably Australia's (and one of the world's) true visionaries of the future of humankind. He co-invented VRML! Follow him and read his work.
 
-And, a bunch of people in and around design, government, and innovation you should be listening to include (but are by no means limited to) [Ash Donaldson](https://twitter.com/ashdonaldson), [Mike Montiero](https://medium.com/@monteiro), [Claire Lew](https://medium.com/@cjlew23), [Pia Waugh](https://twitter.com/piawaugh), [Kristin Alford](https://twitter.com/kristinalford), [C Todd Lombardo](https://medium.com/@iamctodd), [Richard Banfield](https://medium.com/@freshtilledsoil), [Nat Torkington](https://www.oreilly.com/topics/four-short-links), Kaila Colbin, [Dave Gray](https://medium.com/@davegray), [Jon Kolko](http://www.jonkolko.com/), [Christina Wodtke](https://medium.com/@cwodtke), [Leisa Reichelt](https://twitter.com/leisa), [Leyla Acaroglu](https://twitter.com/LeylaAcaroglu), [Steve Portigal](https://twitter.com/steveportigal), [Will Evans](https://twitter.com/semanticwill), [danah boyd](https://medium.com/@zephoria).
+And, a bunch of people in and around design, government, and innovation you should be listening to include (but are by no means limited to) [Simon Sinek](https://twitter.com/simonsinek), [Ash Donaldson](https://twitter.com/ashdonaldson), [Mike Montiero](https://medium.com/@monteiro), [Erika Hall](https://twitter.com/mulegirl), [Claire Lew](https://medium.com/@cjlew23), [Pia Waugh](https://twitter.com/piawaugh), [Kristin Alford](https://twitter.com/kristinalford), [C Todd Lombardo](https://medium.com/@iamctodd), [Richard Banfield](https://medium.com/@freshtilledsoil), [Nat Torkington](https://www.oreilly.com/topics/four-short-links), Kaila Colbin, [Dave Gray](https://medium.com/@davegray), [Jon Kolko](http://www.jonkolko.com/), [Christina Wodtke](https://medium.com/@cwodtke), [Leisa Reichelt](https://twitter.com/leisa), [Leyla Acaroglu](https://twitter.com/LeylaAcaroglu), [Jared Spool](https://medium.com/@jmspool), [Steve Portigal](https://twitter.com/steveportigal), [Will Evans](https://twitter.com/semanticwill), [danah boyd](https://medium.com/@zephoria).
