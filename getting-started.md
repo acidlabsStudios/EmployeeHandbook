@@ -12,4 +12,8 @@ Usually when you start a new job in an office, it's clear [who does what](https:
 
 When people join acidlabs, they're expected to spend the first few days just hanging around getting the lay of the land. That doesn't mean you do nothing; there's plenty to do. What it does mean is that during your first week, we'll do our best not to saddle you with delivery responsibilities on any business-critical work.
 
-We already think we like you and can work with you - that's why we hired you. But we don't know each other well yet, so taking this approach allows you to meet us, get a sense of how you might fit in, and gives you room to complete a few threshold tasks in a project we call __First Week__ that will do the necessary staff admin, give us a better sense of you, and let you figure out what you can manage and what you might need some mentoring and development on. Your buddy will guide you through this.
+We'll buy you a laptop or desktop device, as well as an external keyboard, mouse and screen on joining acidlabs, and can refresh the main device every two to three years. We prefer Mac, but don't care whether you want a Mac, a Windows machine, or some wacky homebrew Linux thing. You choose the right tools for you.
+
+We'll set up a Basecamp project for you that we call __First Week__. In it, you'll see to-dos linking to accounts or services that you need to set up -- an external hard drive, 2FA for various accounts, and private wi-fi to name a few. Your buddy will guide you through this.
+
+If you have a specific training schedule or training milestones to complete, that will go into your First Week too.
