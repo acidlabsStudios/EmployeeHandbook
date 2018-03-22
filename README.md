@@ -1,6 +1,6 @@
 # acidlabs Employee Handbook
 
-Until 2016, there was not handbook. Just a bunch of ideas in several people's heads. When someone new came to work with us, it was confusing as they had to work things out on their own and absorb a culture and ways of working that are often unfamiliar if you've worked in a regular corporate job; even one in the design industry. Oral history is great, but it's for telling stories, not for onboarding new people.
+Until 2016, there was no handbook. Just a bunch of ideas in several people's heads. When someone new came to work with us, it was confusing as they had to work things out on their own and absorb a culture and ways of working that are often unfamiliar if you've worked in a regular corporate job; even one in the design industry. Oral history is great, but it's for telling stories, not for onboarding new people.
 
 This is our _living_ guide to working at acidlabs. In here, you'll find all sorts of things to guide the way we work, your careers, projects, perks and conditions, and so on. There's also a decent serving of our history.
 
