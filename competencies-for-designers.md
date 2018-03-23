@@ -36,7 +36,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * Makes regular, material contributions to the look-and-feel of our general aesthetic and brand.
 * Usually at least 8-12 years of experience being a professional designer and likely to have studied design or related discipline at undergraduate level.
 * Regularly mentors other designers and clients needing detailed or accelerated uplift and may teach design professionally.
-* Typically at least 3-5 years experience at acidlabs internalizing how we work.
+* Typically at least 3-5 years experience at acidlabs internalising how we work.
 * More than 5 years of professional specialisation, e.g. service design, user research, interaction design.
 * COMPETENCY LEVEL: Can create strategic project vision with others, strategic design planning and delivery, detailed interactive prototypes demonstrating flows, interactions, and animations, complex service elements with backstage, can plan research and conduct interviews alone.
 
@@ -49,6 +49,6 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * Completely comfortable discussing design direction, theories, and purpose with clients.
 * Usually at least 12-15+ years of experience being a professional designer and likely to have studied design or a related discipline at postgrad level.
 * Frequently and actively mentors other designers and clients needing detailed or accelerated uplift and may teach design professionally.
-* Typically at least 5-7 years experience at acidlabs internalizing how we work.
+* Typically at least 5-7 years experience at acidlabs internalising how we work.
 * More than 7 years of professional specialisation, e.g. service design, user research, interaction design.
 * COMPETENCY LEVEL: Can create strategic project vision independently, strategic design planning and delivery, detailed interactive prototypes demonstrating flows, interactions, and animations, complex service elements with backstage, can plan research and conduct interviews alone.
