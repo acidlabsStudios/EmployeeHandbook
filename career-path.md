@@ -1,4 +1,4 @@
-# Career path
+# Making a career at acidlabs
 
 The average tenure of employees working at many companies today is shockingly low. At both Amazon and Google, it's [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). When you work at acidlabs, it should absolutely be feasible to think about this as the place for making a life-long career.
 
@@ -6,18 +6,20 @@ The average tenure of employees working at many companies today is shockingly lo
 
 Advancing your career at acidlabs doesn't mean giving up on your craft and moving into "management". Whether you work in design, operations, or whatever, you can become better at the work itself and level-up that way. This is especially important since we're a relatively small company with just two layers of managerial parfait: executives and team leads. And both the executives and leads still spend the majority of their time doing actual work themselves as well.
 
-We're not massive fans of titles internally (though sometimes clients need a title to feel they understand something about us). That said, we've mapped our path of mastery to five different levels, shamelessly stolen from Basecamp. Here's an example of the titles for designers (of any sort):
-* Junior Designer - 2 years or less in career, recent graduate, or new hire from other company
-* Designer - 2-5 years in career, contractor, or new hire from other company
-* Senior Designer - 5+ years in career
-* Lead Designer - 7+ years in career with proven specialisation (industry experience or undergraduate study) 
-* Principal Designer - 10+ years in career with higher proven specialisation (industry experience or postgraduate study)
+We're not massive fans of titles internally (though sometimes clients need a title to feel they understand something about us). That said, we've mapped our path of mastery to five different levels, shamelessly stolen from Basecamp. That title structure is shared amongst all disciplines, but the particulars of what characterizes one level from another will of course be different. Here's an example of the titles for designers (of any sort):
+* Junior Designer
+* Designer
+* Senior Designer
+* Lead Designer 
+* Principal Designer
 
 While this is how we recognise mastery, it's by no means an expectation that everyone will start as a junior and end up as a principal. We need people and perspectives from all levels of skill. And for those who do end up progressing all the way through this path, it may well be a journey of many, many years, if not a decade or more.
 
 These titles make it clear to everyone where someone is in their career progression at acidlabs. Note that these titles are about a particular role at acidlabs. Someone may well have been a "Senior Designer" somewhere else with different assessment criteria and a different workflow, and then still start at acidlabs as a "Designer". We recognise mastery and titles at acidlabs for the work done at acidlabs.
 
 Day to day, though, these titles aren't really much of a factor. It's not like they're printed on your HELLO MY NAME IS sticker. But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at acidlabs.
+
+You can see the specific titles and competencies expected for [Designers](https://github.com/acidlabsdesign/EmployeeHandbook/blob/master/competencies-for-designers).
 
 ## Pay and promotions
 
