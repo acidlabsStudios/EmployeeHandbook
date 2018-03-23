@@ -19,7 +19,7 @@ These titles make it clear to everyone where someone is in their career progress
 
 Day to day, though, these titles aren't really much of a factor. It's not like they're printed on your HELLO MY NAME IS sticker. But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at acidlabs.
 
-You can see the specific titles and competencies expected for [Designers](https://github.com/acidlabsdesign/EmployeeHandbook/blob/master/competencies-for-designers).
+You can see the specific titles and competencies expected for [Designers](https://github.com/acidlabsdesign/EmployeeHandbook/blob/master/competencies-for-designers.md).
 
 ## Pay and promotions
 
