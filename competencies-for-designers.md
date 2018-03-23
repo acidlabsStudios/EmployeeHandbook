@@ -26,7 +26,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * Usually at least 5-8 years of experience being a professional designer.
 * Can mentor more junior designers and clients needing familiarisation with design.
 * Up to 5 years of professional specialisation, e.g. service design, user research, interaction design.
-* COMPETENCY LEVEL: Can create project vision and strategy with some guidance, detailed interactive prototypes demonstrating flows, interactions, and animations, complex service elements with backstage, can plan research and conduct interviews alone.
+* COMPETENCY LEVEL: Can help create project vision and strategy with some guidance, detailed interactive prototypes demonstrating flows, interactions, and animations, complex service elements with backstage, can plan research and conduct interviews alone.
 
 ## Lead Designer
 * Work happens completely autonomously without regular need for review.
