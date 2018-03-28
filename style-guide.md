@@ -8,12 +8,23 @@ The things in this document refer equally to pitches, bids, public blogging unde
 The business name is __acidlabs__ in all cases. The letter "a" in acidlabs is always lower case unless stupid things like Facebook prevent us from doing so.
 e.g. _At acidlabs, we work with you to make your business better._
 
-### Naming projects
+### Raising projects
 When naming a project, the format is __XXfyfynn ```<some project name>```__, where:
 * _XX_ - an all caps two-letter code for the organisation we're working with or through. Internal projects will use __AC__ for acidlabs. Where we have directly won the engagement, we'll use a code that makes it apparent who the client is. If we are loaning out someone to another studio or agency, we create a similar code for them. For example, __FX__ for FinXL and __UB__ for Unbranded Sports Preparation.
 * _fyfy_ - two digits representing the financial year the project began. So, for example, a project starting in the 2017-2018 financial year will use __1718__.
 * _nn_ - two digits incremented to show how many projects we've done across the entire financial year. The first project is __01__, and so on. Project numbers for an individual client won't necessarily be consecutive, as other projects will occur in between.
 * ```_<some project name>_``` - a descriptive name for the project.
+
+When you create a new project, it _must be_ created using the naming in the following places:
+* Basecamp
+* the Projects Team Drive, where you'll also need to create the folder structure we use
+* Xero, where you'll also need to create the client if they are new
+* Highrise
+
+Optionally, it can also be created in:
+* Smaply, if we're likely to design personas or journeys
+* Evernote, if you use it
+* as a tag in your email if you follow this practice
 
 ### Email and your .sigfile
 By preference, email is sent plain text or rich text and never HTML (unless it's an EDM).
