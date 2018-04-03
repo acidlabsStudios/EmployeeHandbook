@@ -26,7 +26,8 @@ Every three years, employees are eligible to take a one-month-long sabbatical. T
 ### Paid parental leave
 When you welcome a new baby, we encourage you to take up to 26 weeks parental leave, at 100% paid salary. All the other rules and eligibility around parental leave apply as they do under the National Employment Standards.
 
-__15% superannuation__ - Just that. More than the base. You nominate your own fund of choice. If you don't have one, we will help you establish one. Our funds of choice are [Australian Ethical](https://www.australianethical.com.au/) and [Spaceship](https://www.spaceship.com.au/).
+### 15% superannuation
+Just that. More than the base. You nominate your own fund of choice. If you don't have one, we will help you establish one. Our funds of choice are [Australian Ethical](https://www.australianethical.com.au/) and [Spaceship](https://www.spaceship.com.au/).
 
 ## Perks
 
