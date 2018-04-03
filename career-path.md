@@ -33,7 +33,11 @@ When someone gets a promotion from one level to the next, they'll get a correspo
 
 ## May and November reviews
 
-We perform bi-yearly reviews in May and November with support from external HR specialists. Everyone who has been with us at least 90 days gets a review. The primary purpose of these reviews is to give feedback on career path advancement and recognise accomplishments. We wrap up our November reviews in time to make promotion related pay adjustments effective January 1st. We follow a simple process:
+We formalise bi-yearly reviews in May and November with support from external HR specialists. Everyone who has been with us at least 90 days gets a review.
+
+The formal part is about having a record that adds positives to your career. You should actually be talking to your team leads or company leadership alost weekly about how you're going. That might be over lunch, doing some work, or just as a part of the day. You should never be unsure of how you're going, and if you are, you have the right to ask and insist on a straight answer.
+
+The primary purpose of reviews is to give feedback on career path advancement and recognise accomplishments. We wrap up our November reviews in time to make promotion related pay adjustments effective January 1st. We follow a simple process:
 
 * everyone writes up a 1-2 page summary and sends it to the head of their team
 * the head of your team reviews your summary and prepares their own thoughts
