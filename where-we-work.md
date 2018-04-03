@@ -24,3 +24,11 @@ If working for home or from a coffee shop doesn't suit you and you're not in Can
 Your working hours are up to you. Want to work a regular 9-5? Keen. Got kids and need to be there for them before and after school? Work around that need. Night owl? Work after dark. Whatever.
 
 The only caveats to this are if you are on a project with a team in-studio and they need you, you need to be available for a crossover of 2-4 hours as agreed with your team and if you're on-site with a client, you need to negotiate your hours with them, but will probably need to work normal office hours.
+
+## Studio Fridays
+
+No matter where you're working, we try to spend at least every second Friday together so that we can share ideas, get face-to-face peer review on our project work, bounce ideas off each other, and so on. We do this at Entry 29, with calls in from remote team members if they want to be involved.
+
+## Kara's Office Hours
+
+Once a month, we have a call on Zoom where everyone gets together to discuss our questions, strategies, the design industry, and some less meaningful things. It's a chance for Kara to offer her experience and mentorship, as well as being really good for team building.
