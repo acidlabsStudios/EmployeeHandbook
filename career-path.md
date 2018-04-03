@@ -40,3 +40,10 @@ We perform bi-yearly reviews in May and November with support from external HR s
 * the head of your team will schedule a one-hour meeting to discuss your goals and progress
 
 The head of your team will reach out to you when it's time for you to write up your review. Of course, you can (and should) ask for feedback as often as you'd like it. You should also expect it of your leads.
+
+## And sometimes we don't stay together...
+Your career is yours to make. Sometimes, you'll reach a realisation that being a part of acidlabs isn't the right thing for your life and career goals any longer. And sometimes, where we want to head as an organisation won't fit with you and your skills, ambitions, and work style any more.
+
+Either way, we're not fans of using performance management as a way to force someone out, or not talking about the need to move on. If you're thinking about leaving, let someone in leadership know; it's possible we'll have a contact who can get you through the door at the next place that might be _perfect for you_ and we're more than happy to make the introduction. Equally, if we feel you're not right for us for some reason, we'll talk about it with you. We're not about firing people. We're about helping them find the right place for their skills and ambitions, and we're honest enough with ourselves to know that's not always going to be us.
+
+We're not interested in keeping the decision to move on a secret. We actually think it's harmful, and would rather have an open conversation about it to see how we can make it less stressful for everyone.
