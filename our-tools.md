@@ -33,3 +33,8 @@ URL: https://acidlabs.proposify.biz/proposals/
 For journey mapping, stakeholder mapping and personas.
 
 URL: https://app.smaply.com/#acidlabsstudios/projects
+
+### Zoom
+Simply the best group video calling platform.
+
+URL: https://zoom.us/
