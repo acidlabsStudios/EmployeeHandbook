@@ -14,6 +14,6 @@ When people join acidlabs, they're expected to spend the first few days just han
 
 We'll buy you a laptop or desktop device, as well as an external keyboard, mouse and screen on joining acidlabs. We prefer Mac, but don't care whether you want a Mac, a Windows machine, or some wacky homebrew Linux thing. You choose the right tools for you.
 
-We'll set up a Basecamp project for you that we call __First Week__. In it, you'll see to-dos linking to accounts or services that you need to set up -- an external hard drive, 2FA for various accounts, and private wi-fi to name a few. Your buddy will guide you through this.
+We'll set up a Basecamp project for you that we call __Welcome__. In it, you'll see to-dos linking to accounts or services that you need to set up -- an external hard drive, 2FA for various accounts, and private wi-fi to name a few. Your buddy will guide you through this.
 
 If you have a specific training schedule or training milestones to complete, that will go into your First Week too.
