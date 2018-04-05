@@ -38,3 +38,8 @@ URL: https://app.smaply.com/#acidlabsstudios/projects
 Simply the best group video calling platform.
 
 URL: https://zoom.us/
+
+### 1Password
+We use 1Password for Teams. Download the client, and you'll be added to the team as a part of your *Welcome* project.
+
+URL: https://1password.com/
