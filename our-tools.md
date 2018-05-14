@@ -24,11 +24,6 @@ Still something of an experiment, we use Highrise for CRM. You'll have access so
 
 URL: https://acidlabs.highrisehq.com/
 
-### Proposify
-We use this proposal management tool to build out proposals for clients and to do some pipeline management that gets synced with Xero and Highrise.
-
-URL: https://acidlabs.proposify.biz/proposals/
-
 ### Smaply
 For journey mapping, stakeholder mapping and personas.
 
