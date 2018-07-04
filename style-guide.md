@@ -42,6 +42,8 @@ Our .sigfile format is:
 acidlabs | Better by design 
  
 We meet and work on the land of the Ngunnawal people and acknowledge and respect their continuing culture and the contribution they make to the life of this city and this region.
+
+acidlabs is a [Certified B Corporation]|(http://bcorporation.com.au/)
 ```
 
 We don't do legal disclaimers or those kinds of things in our email .sigfiles.
