@@ -1,6 +1,6 @@
 # We're all acidlabs
 
-Everyone working at acidlabs represents acidlabs the business, and themselves as prfessional people. When a client talks to Steve about a design problem, Steve is acidlabs. When a another client reads a tweet by you that talks about accessible forms, you are acidlabs. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.
+Everyone working at acidlabs represents acidlabs. When a client talks to Steve about a design problem, Steve is acidlabs. When a another client reads a tweet by Nathanael that talks about agile, Nat is acidlabs. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.
 
 That’s what we mean when we say marketing is everyone’s responsibility, and that it pays to spend the time to recognize that. This means avoiding the bullshit of management-speak and bending policies to fit needs within reason, not just listening. It means taking the time to get the words right and consider how you’d feel if you were on the other side of the interaction.
 
