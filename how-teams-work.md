@@ -1,4 +1,4 @@
-# How teams work
+# How we work
 
 We're a little company, so these ideas are very malleable right now. As we grow, that will probably change. A lot. Whatever happens, we'll keep the core of what's written here.
 
