@@ -1,4 +1,4 @@
-# Benefits and perks - Permanent staff
+# Benefits and perks
 
 Since all our people currently work in Australia, this section is written with that as the default perspective. Some benefits don't make sense in other countries. We will try our best to provide comparable benefits and perks outside Australia as it makes sense, though.
 
