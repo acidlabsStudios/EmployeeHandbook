@@ -33,7 +33,7 @@ When someone gets a promotion from one level to the next, they'll get a correspo
 
 ## Performance feedback
 
-Twive a year, acidlabs employees receive _formal_ feedback on their work performance. We formalise bi-yearly reviews in May and November with support from external HR specialists. Everyone who has been with us at least 90 days gets a review.
+Twice a year, acidlabs employees receive _formal_ feedback on their work performance. We formalise bi-yearly reviews in May and November with support from external HR specialists. Everyone who has been with us at least 90 days gets a review.
 
 The formal part is about having a record that adds positives to your career. You should actually be talking to your team leads or company leadership almost weekly about how you're going. That might be over lunch, doing some work, or just as a part of the day. You should never be unsure of how you're going, and if you are, you have the right to ask and insist on a straight answer.
 
