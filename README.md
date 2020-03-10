@@ -20,7 +20,7 @@ There's a notional reading order you can follow, though it's not critical.
 * [Where (and when) we work](where-we-work.md)
 * [Benefits and perks](benefits-and-perks.md)
 * [Getting started](getting-started.md)
-* [How teams work](how-teams-work.md)
+* [How we work](how-we-work.md)
 * [Making a career at acidlabs](career-path.md)
 * [Our tools](our-tools.md)
 * [Can I do something else and work here?](moonlighting.md)
