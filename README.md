@@ -22,7 +22,6 @@ There's a notional reading order you can follow, though it's not critical.
 * [Getting started](getting-started.md)
 * [How we work](how-we-work.md)
 * [Making a career](career.md)
-* [Our tools](our-tools.md)
 * [Can I do something else and work here?](moonlighting.md)
 * [Why international travel is nonsense and will probably drive you crazy](international-travel.md)
 * [Style guide](style-guide.md)
