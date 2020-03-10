@@ -1,4 +1,4 @@
-# Can I do something else and work here?
+# Outside work
 
 Moonlighting somewhere else means working other professional, paid jobs outside of your work at acidlabs. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavours outside of acidlabs don’t create conflicts of interest or affect your time, dedication, or performance at acidlabs. So it’s a balance.
 
@@ -6,9 +6,9 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 ## OK
 
-__An occasional side gig, free or paid, for someone you know__ - For example, if you want to work on a friend’s website or a design or writing project for something you’ve involved with, that’s fine.
+__An occasional side gig, free or paid, for someone you know__ - For example, if you want to work on a friend’s website or a design or writing project for something you’re involved with, that’s fine.
 
-__An occasional speaking gig, free or paid that isn't related to your work here__ - Is someone going to pay you to give a talk somewhere? That’s fine as long as it doesn’t involve multiple days off for travel (unless you use your own personal vacation time against this travel time). If it's work-related, then we consider that work time. That means travel and costs are covered.
+__An occasional speaking gig, free or paid__ - Is someone going to pay you to give a talk somewhere? That’s fine as long as it doesn’t involve multiple days off for travel (unless you use your own personal vacation time against this travel time).
 
 __A side business that’s different from your day job, as long as the commitment is only a few hours a week__ - If you come to work exhausted because you’re trying to start a full-time business on the side, it’s going to affect your performance here.
 
@@ -34,7 +34,7 @@ Here are a few guiding principles about whether something could be a problem:
 * Is it competitive?
 * Does it occupy a disproportionate amount of your time?
 * Does it require you to be away during times when you’re needed at work?
-* Is it another paid gig that employs the same skills acidlabs Studios is paying you for?
+* Is it another paid gig that employs the same skills acidlabs is paying you for?
 
 In general, we’d like to be lenient within reason, but we’re going to be strict if we see it affect your time, attention, or performance here at work.
 
