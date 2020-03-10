@@ -12,7 +12,4 @@ __Stephen Collins__ (also Steve or trib) is the company founder and still works 
 __Kara DeFrias__ is our mentor, guide, sounding board, and advisor. She's based in San Diego and is the go-to person for when you might have doubts about a decision you want to make. She's also an active designer, speaker, and all-around genius, One day, we'll find a way to bring her to Australia.
 
 ### Design
-__Nathanael Coyne__ is our Senior Designer right now. He's an instinctive designer, coach for ways of working, and more. He was also the first hire at the company. __Linda Gehard__ is a Senior Designer based out of Sydney with a useful history working on mobile, FMCG and more.
-
-### Business Development
-Right now, the entire BD team is __Katrina Tidy__. If you talk to someone who might be a lead, or hear about something we should be doing, talk to her. She's also a first-class content strategist, project manager, and maker of things to happen.
+__Nathanael Coyne__ is our Lead Designer right now. He's an instinctive designer, coach for ways of working, and more. He was also the first hire at the company.
