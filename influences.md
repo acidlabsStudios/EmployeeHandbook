@@ -1,4 +1,4 @@
-# What influenced us, or The big-assed culture, style, howto and practice reading list and other things
+# Our influences
 
 If you want to learn the acidlabs view of the world, it helps to know the influences that helped form it. acidlabs has been around since 2006. Most of that time it was a one-person show with Steve as the only employee. All that changed beginning 2013. Since the beginning there have been a number of key influencers and influences that have marked the company culture.
 
