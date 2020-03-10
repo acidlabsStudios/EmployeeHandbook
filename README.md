@@ -15,7 +15,7 @@ There's a notional reading order you can follow, though it's not critical.
 * [We're all acidlabs](were-all-acidlabs.md)
 * [What we stand for](what-we-stand-for.md)
 * [The work we look to do](the-work-we-look-to-do.md)
-* [What influenced us, or The big-assed culture, style, howto and practice reading list and other things](influences.md)
+* [Our influences](influences.md)
 * [Who does what?](who-does-what.md)
 * [Where (and when) we work](where-we-work.md)
 * [Benefits and perks - Permanent staff](benefits-and-perks.md)
