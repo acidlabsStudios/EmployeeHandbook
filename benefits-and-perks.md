@@ -7,9 +7,9 @@ Since all our people currently work in Australia, this section is written with t
 To start with, you naturally (because it's the law) get everything the National Employment Standards entitle you to in terms of leave and conditions. Do yourself a favor and [read about it](https://www.fairwork.gov.au/) at the Fair Work Ombusdman site.
 
 ### Top 20% salaries
-We monitor industry salaries annually and make sure we’re paying in the top 20%, based on skills and experience, for every position at the company. Salaries are standardised on the Canberra market.
+We monitor industry salaries annually and do our utmost to pay in the top 20%, based on skills and experience, for every position at the company. Salaries are standardised on the Canberra market.
 
-### Personal Leave beyond statutory entitlements
+### Personal leave beyond statutory entitlements
 If you are under treatment or recovery for a serious medical condition and are unable to work because of it, work with your management to discuss options. We can offer a small degree of flexibility and extra days on a case-by-case basis. These days are an emergency reserve, separate from your normal personal leave entitlement.
 
 ### Leave flexibility and Christmas shutdown
@@ -28,7 +28,7 @@ Every three years, employees are eligible to take a one-month-long sabbatical. T
 When you welcome a new baby, we encourage you to take up to 26 weeks parental leave, at 100% paid salary. All the other rules and eligibility around parental leave apply as they do under the National Employment Standards.
 
 ### 15% superannuation
-Just that. More than the base. You nominate your own fund of choice. If you don't have one, we will help you establish one. Our funds of choice are [Australian Ethical](https://www.australianethical.com.au/) and [Spaceship](https://www.spaceship.com.au/).
+Just that. More than the base. You nominate your own fund of choice. If you don't have one, we will help you establish one. Our funds of choice are [Australian Ethical](https://www.australianethical.com.au/) and [Future Super](https://www.futuresuper.com.au/).
 
 ## Perks
 
